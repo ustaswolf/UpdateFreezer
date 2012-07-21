@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<JavaScriptProject>
+	<Files>
+		<Filter
+			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
+			Name="Source Files"
+			Filter="js">
+			<File
+				RelativePath="Program.js" />
+		</Filter>
+	</Files>
+</JavaScriptProject>

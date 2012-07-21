@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<JavaScriptProject>
+	<Properties>
+		<Debug>
+			<Process>%ICEJS%</Process>
+			<WorkingDirectory>.</WorkingDirectory>
+			<Port></Port>
+			<DebugCommandLine>--debug-brk %ENTRY%</DebugCommandLine>
+			<RunCommandLine>%ENTRY%</RunCommandLine>
+			<EntryPoint>Program.js</EntryPoint>
+		</Debug>
+	</Properties>
+</JavaScriptProject>
